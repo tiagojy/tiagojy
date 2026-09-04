@@ -41,7 +41,7 @@ Atualmente, estou estudando e desenvolvendo meus conhecimentos em **Java, Python
 - 🐍 Estudando Python
 - 🌐 Desenvolvendo conhecimentos em HTML e CSS
 - 🔧 Aprendendo e utilizando Git e GitHub
-- 📚 Buscando evoluir constantemente na área de tecnologia
+- 🚀 Buscando transformar meus conhecimentos em projetos práticos
 
 ---
 
