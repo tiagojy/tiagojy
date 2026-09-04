@@ -4,7 +4,7 @@
 
 🌐 **Focado em desenvolvimento web**
 
- <img src="https://flagcdn.com/w20/br.png" width="20"> Brasil
+<img src="https://flagcdn.com/w20/br.png" width="20"> Brasil
 
 Sou estudante de Engenharia de Software e tenho interesse em desenvolvimento de software, programação e principalmente em **desenvolvimento web**.
 
@@ -50,19 +50,16 @@ Atualmente, estou estudando e desenvolvendo meus conhecimentos em **Java, Python
 ### 💻 Linguagens
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🌐 Desenvolvimento Web
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🔧 Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
