@@ -4,7 +4,7 @@
 
 🌐 **Focado em desenvolvimento web**
 
-🇧🇷 Brasil
+🇧🇷 Brasil 🇧🇷
 
 Sou estudante de Engenharia de Software e tenho interesse em desenvolvimento de software, programação e principalmente em **desenvolvimento web**.
 
