@@ -4,7 +4,7 @@
 
 🌐 **Focado em desenvolvimento web**
 
-🇧🇷 Brasil 🇧🇷
+ <img src="https://flagcdn.com/w20/br.png" width="20"> Brasil
 
 Sou estudante de Engenharia de Software e tenho interesse em desenvolvimento de software, programação e principalmente em **desenvolvimento web**.
 
