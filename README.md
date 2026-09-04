@@ -2,11 +2,13 @@
 
 🎓 **Estudante de Engenharia de Software**
 
+🌐 **Focado em desenvolvimento web**
+
 🇧🇷 Brasil
 
-Sou estudante de Engenharia de Software e tenho interesse em desenvolvimento de software, programação e tecnologia.
+Sou estudante de Engenharia de Software e tenho interesse em desenvolvimento de software, programação e principalmente em **desenvolvimento web**.
 
-Atualmente, estou estudando e desenvolvendo meus conhecimentos principalmente em **Java, Python, HTML, CSS, Git e GitHub**.
+Atualmente, estou estudando e desenvolvendo meus conhecimentos em **Java, Python, HTML, CSS, Git e GitHub**, buscando evoluir cada vez mais na área de tecnologia.
 
 ---
 
@@ -33,12 +35,13 @@ Atualmente, estou estudando e desenvolvendo meus conhecimentos principalmente em
 ## 🧠 Sobre mim
 
 - 🎓 Estudante de Engenharia de Software
-- 💻 Interessado em desenvolvimento de software
+- 🌐 Tenho interesse em desenvolvimento web
+- 💻 Estudando desenvolvimento de software
 - ☕ Estudando e praticando Java
 - 🐍 Estudando Python
 - 🌐 Desenvolvendo conhecimentos em HTML e CSS
 - 🔧 Aprendendo e utilizando Git e GitHub
-- 📚 Sempre buscando aprender e evoluir na área de tecnologia
+- 📚 Buscando evoluir constantemente na área de tecnologia
 
 ---
 
@@ -64,21 +67,9 @@ Atualmente, estou estudando e desenvolvendo meus conhecimentos principalmente em
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tiagojy&show_icons=true&theme=tokyonight&count_private=true" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagojy&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
 ## 🚀 Objetivos
 
-Meu objetivo é continuar evoluindo como desenvolvedor, adquirir experiência prática e construir projetos que contribuam para o meu aprendizado e crescimento profissional.
+Meu objetivo é me desenvolver cada vez mais como **desenvolvedor web**, adquirindo experiência prática, aprendendo novas tecnologias e construindo projetos que contribuam para meu aprendizado e crescimento profissional.
 
 ---
 
