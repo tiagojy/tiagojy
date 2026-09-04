@@ -19,11 +19,11 @@ Atualmente, estou estudando e desenvolvendo meus conhecimentos em **Java, Python
   <a href="https://github.com/tiagojy">
     <img src="https://img.shields.io/badge/GitHub-tiagojy-181717?style=for-the-badge&logo=github" />
   </a>
-
+  &nbsp;
   <a href="https://www.instagram.com/_tiago.jy_/">
     <img src="https://img.shields.io/badge/Instagram-@_tiago.jy_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-
+  &nbsp;
   <a href="https://www.linkedin.com/in/tiagodossantospereira/">
     <img src="https://img.shields.io/badge/LinkedIn-Tiago%20dos%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
